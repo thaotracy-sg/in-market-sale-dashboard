@@ -38,3 +38,12 @@ Linear Regression Imputation
 - Electric power consumption (kWh per capita)
 - CO₂ emissions from waste (Mt CO₂e)
 - Period: 1981–2023 | Region: Europe & Central Asia
+
+## 🔗 More Projects
+
+📊 [Power BI IMS Dashboard Enhancement – Healthcare](https://github.com/thaotracy-sg/powerbi-ims-dashboard-enhancement-healthcare) <br>
+🛒 [SQL + R Customer Survey Pipeline](https://github.com/thaotracy-sg/sql-r-customer-survey-pipeline) <br>
+📱 [Causal Analysis Using Panel Logit Model – Game App](https://github.com/thaotracy-sg/Causal-analysis-panel-logit-R-gameapp) <br>
+🌿 [Sustainable Brand Logit Analysis](https://github.com/thaotracy-sg/Sustainable-brand-logit-analysis) <br>
+🧴 [Commercial Analytics – Skincare Channel Performance](https://github.com/thaotracy-sg/Commercial-analytics-skincare-channel-performance) <br>
+
